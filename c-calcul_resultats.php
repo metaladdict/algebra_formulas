@@ -6,7 +6,7 @@
 $start = microtime(true);
 $nmin = 1;
 $nmax = 10;
-$total = 150;
+$total = 42;
 $nbmb = 4;
 $operateurs = ['+','-','*','/'];
 
